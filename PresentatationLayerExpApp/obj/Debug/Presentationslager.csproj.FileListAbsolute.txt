@@ -1,0 +1,64 @@
+C:\Users\Sebastian\Downloads\Lab1Oosu2\PresentatationLayerExpApp\bin\Debug\PresentatationLayerExpApp.exe.config
+C:\Users\Sebastian\Downloads\Lab1Oosu2\PresentatationLayerExpApp\bin\Debug\PresentatationLayerExpApp.exe
+C:\Users\Sebastian\Downloads\Lab1Oosu2\PresentatationLayerExpApp\bin\Debug\PresentatationLayerExpApp.pdb
+C:\Users\Sebastian\Downloads\Lab1Oosu2\PresentatationLayerExpApp\bin\Debug\BusinessLayer.dll
+C:\Users\Sebastian\Downloads\Lab1Oosu2\PresentatationLayerExpApp\bin\Debug\BusinessLayer.pdb
+C:\Users\Sebastian\Downloads\Lab1Oosu2\PresentatationLayerExpApp\obj\Debug\Presentationslager.csprojAssemblyReference.cache
+C:\Users\Sebastian\Downloads\Lab1Oosu2\PresentatationLayerExpApp\obj\Debug\Presentatationslager.Återlämning.resources
+C:\Users\Sebastian\Downloads\Lab1Oosu2\PresentatationLayerExpApp\obj\Debug\Presentatationslager.Huvudmeny.resources
+C:\Users\Sebastian\Downloads\Lab1Oosu2\PresentatationLayerExpApp\obj\Debug\Presentatationslager.LoggaIn.resources
+C:\Users\Sebastian\Downloads\Lab1Oosu2\PresentatationLayerExpApp\obj\Debug\PresentatationLayerExpApp.Properties.Resources.resources
+C:\Users\Sebastian\Downloads\Lab1Oosu2\PresentatationLayerExpApp\obj\Debug\Presentatationslager.Bokning.resources
+C:\Users\Sebastian\Downloads\Lab1Oosu2\PresentatationLayerExpApp\obj\Debug\Presentationslager.csproj.GenerateResource.cache
+C:\Users\Sebastian\Downloads\Lab1Oosu2\PresentatationLayerExpApp\obj\Debug\Presentationslager.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Downloads\Lab1Oosu2\PresentatationLayerExpApp\obj\Debug\Presentationslager.csproj.CopyComplete
+C:\Users\Sebastian\Downloads\Lab1Oosu2\PresentatationLayerExpApp\obj\Debug\PresentatationLayerExpApp.exe
+C:\Users\Sebastian\Downloads\Lab1Oosu2\PresentatationLayerExpApp\obj\Debug\PresentatationLayerExpApp.pdb
+C:\Users\Sebastian\Downloads\Lab1Oosu2Grupp5\PresentatationLayerExpApp\obj\Debug\Presentationslager.csprojAssemblyReference.cache
+C:\Users\Sebastian\Downloads\Lab1Oosu2Grupp5\PresentatationLayerExpApp\obj\Debug\Presentatationslager.Återlämning.resources
+C:\Users\Sebastian\Downloads\Lab1Oosu2Grupp5\PresentatationLayerExpApp\obj\Debug\Presentatationslager.Huvudmeny.resources
+C:\Users\Sebastian\Downloads\Lab1Oosu2Grupp5\PresentatationLayerExpApp\obj\Debug\Presentatationslager.LoggaIn.resources
+C:\Users\Sebastian\Downloads\Lab1Oosu2Grupp5\PresentatationLayerExpApp\obj\Debug\PresentatationLayerExpApp.Properties.Resources.resources
+C:\Users\Sebastian\Downloads\Lab1Oosu2Grupp5\PresentatationLayerExpApp\obj\Debug\Presentatationslager.Bokning.resources
+C:\Users\Sebastian\Downloads\Lab1Oosu2Grupp5\PresentatationLayerExpApp\obj\Debug\Presentationslager.csproj.GenerateResource.cache
+C:\Users\Sebastian\Downloads\Lab1Oosu2Grupp5\PresentatationLayerExpApp\obj\Debug\Presentationslager.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Downloads\Lab1Oosu2Grupp5\PresentatationLayerExpApp\obj\Debug\PresentatationLayerExpApp.exe
+C:\Users\Sebastian\Downloads\Lab1Oosu2Grupp5\PresentatationLayerExpApp\obj\Debug\PresentatationLayerExpApp.pdb
+C:\Users\Sebastian\Downloads\Lab1Oosu2Grupp5\PresentatationLayerExpApp\bin\Debug\PresentatationLayerExpApp.exe.config
+C:\Users\Sebastian\Downloads\Lab1Oosu2Grupp5\PresentatationLayerExpApp\bin\Debug\PresentatationLayerExpApp.exe
+C:\Users\Sebastian\Downloads\Lab1Oosu2Grupp5\PresentatationLayerExpApp\bin\Debug\PresentatationLayerExpApp.pdb
+C:\Users\Sebastian\Downloads\Lab1Oosu2Grupp5\PresentatationLayerExpApp\bin\Debug\BusinessLayer.dll
+C:\Users\Sebastian\Downloads\Lab1Oosu2Grupp5\PresentatationLayerExpApp\bin\Debug\BusinessLayer.pdb
+C:\Users\Sebastian\Downloads\Lab1Oosu2Grupp5\PresentatationLayerExpApp\obj\Debug\Presentationslager.csproj.CopyComplete
+C:\Users\lime2\Downloads\Lab1Oosu2Grupp5 (2)\Lab1Oosu2Grupp5\PresentatationLayerExpApp\bin\Debug\PresentatationLayerExpApp.exe.config
+C:\Users\lime2\Downloads\Lab1Oosu2Grupp5 (2)\Lab1Oosu2Grupp5\PresentatationLayerExpApp\bin\Debug\PresentatationLayerExpApp.exe
+C:\Users\lime2\Downloads\Lab1Oosu2Grupp5 (2)\Lab1Oosu2Grupp5\PresentatationLayerExpApp\bin\Debug\PresentatationLayerExpApp.pdb
+C:\Users\lime2\Downloads\Lab1Oosu2Grupp5 (2)\Lab1Oosu2Grupp5\PresentatationLayerExpApp\bin\Debug\BusinessLayer.dll
+C:\Users\lime2\Downloads\Lab1Oosu2Grupp5 (2)\Lab1Oosu2Grupp5\PresentatationLayerExpApp\bin\Debug\BusinessLayer.pdb
+C:\Users\lime2\Downloads\Lab1Oosu2Grupp5 (2)\Lab1Oosu2Grupp5\PresentatationLayerExpApp\obj\Debug\Presentationslager.csprojAssemblyReference.cache
+C:\Users\lime2\Downloads\Lab1Oosu2Grupp5 (2)\Lab1Oosu2Grupp5\PresentatationLayerExpApp\obj\Debug\Presentatationslager.Återlämning.resources
+C:\Users\lime2\Downloads\Lab1Oosu2Grupp5 (2)\Lab1Oosu2Grupp5\PresentatationLayerExpApp\obj\Debug\Presentatationslager.Huvudmeny.resources
+C:\Users\lime2\Downloads\Lab1Oosu2Grupp5 (2)\Lab1Oosu2Grupp5\PresentatationLayerExpApp\obj\Debug\Presentatationslager.LoggaIn.resources
+C:\Users\lime2\Downloads\Lab1Oosu2Grupp5 (2)\Lab1Oosu2Grupp5\PresentatationLayerExpApp\obj\Debug\PresentatationLayerExpApp.Properties.Resources.resources
+C:\Users\lime2\Downloads\Lab1Oosu2Grupp5 (2)\Lab1Oosu2Grupp5\PresentatationLayerExpApp\obj\Debug\Presentatationslager.Bokning.resources
+C:\Users\lime2\Downloads\Lab1Oosu2Grupp5 (2)\Lab1Oosu2Grupp5\PresentatationLayerExpApp\obj\Debug\Presentationslager.csproj.GenerateResource.cache
+C:\Users\lime2\Downloads\Lab1Oosu2Grupp5 (2)\Lab1Oosu2Grupp5\PresentatationLayerExpApp\obj\Debug\Presentationslager.csproj.CoreCompileInputs.cache
+C:\Users\lime2\Downloads\Lab1Oosu2Grupp5 (2)\Lab1Oosu2Grupp5\PresentatationLayerExpApp\obj\Debug\Presentationslager.csproj.CopyComplete
+C:\Users\lime2\Downloads\Lab1Oosu2Grupp5 (2)\Lab1Oosu2Grupp5\PresentatationLayerExpApp\obj\Debug\PresentatationLayerExpApp.exe
+C:\Users\lime2\Downloads\Lab1Oosu2Grupp5 (2)\Lab1Oosu2Grupp5\PresentatationLayerExpApp\obj\Debug\PresentatationLayerExpApp.pdb
+C:\Users\sebsv\Downloads\Skola\Lab1Oosu2Grupp5\PresentatationLayerExpApp\bin\Debug\PresentatationLayerExpApp.exe.config
+C:\Users\sebsv\Downloads\Skola\Lab1Oosu2Grupp5\PresentatationLayerExpApp\bin\Debug\PresentatationLayerExpApp.exe
+C:\Users\sebsv\Downloads\Skola\Lab1Oosu2Grupp5\PresentatationLayerExpApp\bin\Debug\PresentatationLayerExpApp.pdb
+C:\Users\sebsv\Downloads\Skola\Lab1Oosu2Grupp5\PresentatationLayerExpApp\bin\Debug\BusinessLayer.dll
+C:\Users\sebsv\Downloads\Skola\Lab1Oosu2Grupp5\PresentatationLayerExpApp\bin\Debug\BusinessLayer.pdb
+C:\Users\sebsv\Downloads\Skola\Lab1Oosu2Grupp5\PresentatationLayerExpApp\obj\Debug\Presentationslager.csproj.AssemblyReference.cache
+C:\Users\sebsv\Downloads\Skola\Lab1Oosu2Grupp5\PresentatationLayerExpApp\obj\Debug\Presentatationslager.Återlämning.resources
+C:\Users\sebsv\Downloads\Skola\Lab1Oosu2Grupp5\PresentatationLayerExpApp\obj\Debug\Presentatationslager.Huvudmeny.resources
+C:\Users\sebsv\Downloads\Skola\Lab1Oosu2Grupp5\PresentatationLayerExpApp\obj\Debug\Presentatationslager.LoggaIn.resources
+C:\Users\sebsv\Downloads\Skola\Lab1Oosu2Grupp5\PresentatationLayerExpApp\obj\Debug\PresentatationLayerExpApp.Properties.Resources.resources
+C:\Users\sebsv\Downloads\Skola\Lab1Oosu2Grupp5\PresentatationLayerExpApp\obj\Debug\Presentatationslager.Bokning.resources
+C:\Users\sebsv\Downloads\Skola\Lab1Oosu2Grupp5\PresentatationLayerExpApp\obj\Debug\Presentationslager.csproj.GenerateResource.cache
+C:\Users\sebsv\Downloads\Skola\Lab1Oosu2Grupp5\PresentatationLayerExpApp\obj\Debug\Presentationslager.csproj.CoreCompileInputs.cache
+C:\Users\sebsv\Downloads\Skola\Lab1Oosu2Grupp5\PresentatationLayerExpApp\obj\Debug\Presentationslager.csproj.CopyComplete
+C:\Users\sebsv\Downloads\Skola\Lab1Oosu2Grupp5\PresentatationLayerExpApp\obj\Debug\PresentatationLayerExpApp.exe
+C:\Users\sebsv\Downloads\Skola\Lab1Oosu2Grupp5\PresentatationLayerExpApp\obj\Debug\PresentatationLayerExpApp.pdb

@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BiblioteksApplikation.Model.Bok">
+    <Position X="12.25" Y="3.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAQAAAAQAAACAAAAAAAAAQAAAAAAAAAAQAAA=</HashCode>
+      <FileName>Modell\Bok.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biblioteksapplikation.Model.Bokning">
+    <Position X="9.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAQAAAAAAAAAEAAAAAAACAAQAQACIAAAQAAA=</HashCode>
+      <FileName>Modell\Bokning.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biblioteksapplikation.Model.Medlem">
+    <Position X="4.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAgAAAAAAAAQAAAAAAAABAAA=</HashCode>
+      <FileName>Modell\Medlem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biblioteksapplikation.Model.Personal">
+    <Position X="3.25" Y="0.5" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAAECgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Modell\Personal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biblioteksapplikation.Bokningssystem">
+    <Position X="6.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AACAAAgaABAAAAQAAAAggIACAAAAAMAQAAEAAAAAEAA=</HashCode>
+      <FileName>Modell\Bokningssystem.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="work" />
+      <Property Name="Inloggad" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Biblioteksapplikation.Internals.Repository&lt;T&gt;">
+    <Position X="12.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Internals\Repository.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biblioteksapplikation.Internals.UnitOfWork">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAABAAAQQAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Internals\UnitOfWork.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

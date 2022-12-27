@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "40059fe7-2db4-459b-bdc2-0b5477df6dff": {
+      "ProjectGuid": "40059fe7-2db4-459b-bdc2-0b5477df6dff",
+      "DisplayName": "Affärslager",
+      "ColorIndex": 0
+    },
+    "602ea9de-8952-4db3-a169-1cdf50c9630b": {
+      "ProjectGuid": "602ea9de-8952-4db3-a169-1cdf50c9630b",
+      "DisplayName": "Presentationslager",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
